@@ -98,6 +98,3 @@ Whether it's writing drivers, designing a game engine with dynamic libraries, or
 ---
 
 ## 📂 Public Projects:
-- [**Malware_analyser**](https://github.com/danbmg/Malware_analyser.git) - Malware analysis project.
-- [**Local-Host-Discord-MCP-server**](https://github.com/danbmg/Local-Host-Discord-MCP-server.git) - Local Discord MCP server project.
-- [**42sh**](https://github.com/danbmg/42sh.git) - First-year shell project at Epitech.
