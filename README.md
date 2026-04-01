@@ -96,5 +96,3 @@ Whether it's writing drivers, designing a game engine with dynamic libraries, or
 </p>
 
 ---
-
-## 📂 Public Projects:
