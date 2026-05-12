@@ -27,21 +27,17 @@
 ## 🧠 About Me:
 
 I'm Dan, a 2nd-year student at **Epitech** (Promo 2029), based in France.
-
-I'm deeply passionate about **software engineering**, **systems & low-level programming**, and **robotics**. I love understanding how things work under the hood — from bare-metal code to complex software architectures. I also have a strong interest in **AI & Machine Learning**, and I enjoy building real, functional projects that combine hardware and software.
-
-Whether it's writing drivers, designing a game engine with dynamic libraries, or training a classification model, I'm always looking for the next challenge.
+I'm passionate about **AI**, **data analysis**, and **machine learning**, especially when they can be used to solve real problems and build practical projects. I'm also deeply interested in **robotics**, a field I'm exploring more and more, and I'm especially excited by the potential of combining **AI and robotics** to create intelligent, useful, and autonomous systems.
 
 ---
 
-## 🤝 I'm looking for internships on:
+## 🤝 I'm looking for internship opportunities in:
 
 - Software engineering & development
 - Robotics software (embedded systems, automation, control)
-- Systems programming & low-level development
 - AI / Machine Learning applied projects
-- Any technically ambitious project where I can learn and contribute
 
+These are the areas I'm most interested in, but I'm also open to other meaningful opportunities where I can learn, contribute, and grow as an engineer.
 <!-- I'll add a Vercel link here later -->
 
 ---
