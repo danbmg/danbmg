@@ -27,7 +27,7 @@
 ## 🧠 About Me:
 
 I'm Dan, a 2nd-year student at **Epitech** (Promo 2029), based in France.
-I'm passionate about **AI**, **data analysis**, and **machine learning**, especially when they can be used to solve real problems and build practical projects. I'm also deeply interested in **robotics**, a field I'm exploring more and more, and I'm especially excited by the potential of combining **AI and robotics** to create intelligent, useful, and autonomous systems.
+I'm passionate about **AI**, **GenAI**, **LLMs**, **AI agents**, **data analysis**, and **machine learning**, especially when they can be used to solve real problems and build practical projects. I'm also deeply interested in **robotics**, a field I'm exploring more and more, and I'm especially excited by the potential of combining **AI, ML, and robotics** to create intelligent, useful, and autonomous systems.
 
 ---
 
@@ -36,6 +36,7 @@ I'm passionate about **AI**, **data analysis**, and **machine learning**, especi
 - Software engineering & development
 - Robotics software (embedded systems, automation, control)
 - AI / Machine Learning applied projects
+- GenAI projects with LLMs, agents, and applied automation
 
 These are the areas I'm most interested in, but I'm also open to other meaningful opportunities where I can learn, contribute, and grow as an engineer.
 <!-- I'll add a Vercel link here later -->
@@ -49,6 +50,7 @@ These are the areas I'm most interested in, but I'm also open to other meaningfu
 - Node.js backend development
 - Robotics software integration
 - Deep learning fundamentals
+- GenAI, LLM workflows, and AI agents
 
 ---
 
@@ -60,6 +62,14 @@ These are the areas I'm most interested in, but I'm also open to other meaningfu
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Shell_Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white" alt="Shell"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square" alt="AI"/>
+  <img src="https://img.shields.io/badge/GenAI-7B61FF?style=flat-square" alt="GenAI"/>
+  <img src="https://img.shields.io/badge/LLMs-111827?style=flat-square" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/AI_Agents-0F766E?style=flat-square" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square" alt="Machine Learning"/>
 </p>
 
 <p align="left">
