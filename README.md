@@ -39,7 +39,7 @@ I'm passionate about **AI**, **GenAI**, **LLMs**, **AI agents**, **data analysis
 - GenAI projects with LLMs, agents, and applied automation
 
 These are the areas I'm most interested in, but I'm also open to other meaningful opportunities where I can learn, contribute, and grow as an engineer.
-<!-- I'll add a Vercel link here later -->
+**[📄 Mon CV en ligne](https://my-cv-red.vercel.app/)**
 
 ---
 
@@ -98,7 +98,9 @@ These are the areas I'm most interested in, but I'm also open to other meaningfu
   <a href="https://discordapp.com/users/loler_teamer" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <!-- Vercel CV link to add here -->
+  <a href="https://my-cv-red.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 ---
