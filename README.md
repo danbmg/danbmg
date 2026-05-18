@@ -39,7 +39,7 @@ I'm passionate about **AI**, **GenAI**, **LLMs**, **AI agents**, **data analysis
 - GenAI projects with LLMs, agents, and applied automation
 
 These are the areas I'm most interested in, but I'm also open to other meaningful opportunities where I can learn, contribute, and grow as an engineer.
-**[📄 Mon CV en ligne](https://my-cv-red.vercel.app/)**
+**[my_resume](https://my-cv-red.vercel.app/)**
 
 ---
 
