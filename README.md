@@ -15,10 +15,6 @@
 - **[R-Type](https://github.com/danbmg/rtype)**: networked multiplayer shooter in C++20 (team of 3, I led the network layer).
 - **[Bernstein](https://github.com/danbmg/bernstein)**: one-command Kubernetes deployment on Azure (Helm, autoscaling).
 
-### 💼 Experience
-
-**Data & AI intern at REplace** (08–12/2025): Python data pipelines and scikit-learn classifiers for renewable-energy power plants.
-
 ### 🛠️ Stack
 
 <p align="left">
@@ -37,7 +33,7 @@
 ### 📫 Contact
 
 <p align="left">
-  <a href="https://my-cv-red.vercel.app/" target="_blank">
+  <a href="https://my-cv-red.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Resume_(FR/EN)-000000?style=flat-square&logo=vercel&logoColor=white" alt="Resume"/>
   </a>
   <a href="https://www.linkedin.com/in/dan-ben-mergui/" target="_blank">
