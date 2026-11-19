@@ -110,7 +110,4 @@
   <a href="mailto:bmgdan@proton.me">
     <img src="https://img.shields.io/badge/Email-6D4AFF?style=flat-square&logo=protonmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://discordapp.com/users/loler_teamer" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
 </p>
