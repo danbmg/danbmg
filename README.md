@@ -10,6 +10,13 @@
 - **InMoov**: a life-size, 3D-printed open-source humanoid (MyRobotLab, Arduino, YOLO vision). I assembled the eyes, torso and arms.
 - **ThreatLab**: a threat-intelligence platform fed by our own honeypots. I'm the CEO of the 6-student team and built the first MVP.
 
+### 🎓 Epitech projects
+
+- **[my_torch](https://github.com/danbmg/mytorch)**: neural network from scratch in NumPy, 95.3% accuracy on 71,557 unseen chess positions.
+- **[Sensai](https://github.com/danbmg/sensai)**: 100% local medical AI assistant (RAG, framework-free agent, team of 3).
+- **[R-Type](https://github.com/danbmg/rtype)**: networked multiplayer shooter in C++20 (team of 3, I led the network layer).
+- **[Bernstein](https://github.com/danbmg/bernstein)**: one-command Kubernetes deployment on Azure (Helm, autoscaling).
+
 ### 💼 Experience
 
 **Data & AI intern at REplace** (08–12/2025): Python data pipelines and scikit-learn classifiers for renewable-energy power plants.
