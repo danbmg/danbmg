@@ -2,8 +2,6 @@
 
 3rd-year computer engineering student at **Epitech Nice**, focused on **AI / Machine Learning and robotics**.
 
-📌 Looking for a **4-month internship in AI / ML or robotics**, starting late March – early April 2027.
-
 ### 🔭 What I'm working on
 
 - **[Jarvis](https://github.com/danbmg/EpyJarvis)**: a voice assistant that runs 100% locally. A Qwen3 8B agent (Ollama) drives 51 tools and picks the right tool and arguments in 98.9% of 176 benchmark commands (~450 ms).
